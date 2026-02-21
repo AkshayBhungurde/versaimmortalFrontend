@@ -380,8 +380,8 @@ export default function Home() {
               solutions to grow your business.
             </p>
             <div className="buttons">
-              <button>Get Free Consultation</button>
-              <button className="outline">Our Services</button>
+              <button>  <a href="contact">Get Free Consultation</a></button>
+              <button className="outline">  Our Services </button>
             </div>
           </div>
         </section>
