@@ -52,14 +52,14 @@
   background-color: #e60000;
 }
 
-/* Hamburger menu for mobile */
+ 
 .admin-hamburger {
   display: none;
   font-size: 1.5rem;
   cursor: pointer;
 }
 
-/* Mobile Responsive */
+ 
 @media (max-width: 768px) {
   .admin-nav-links {
     position: absolute;

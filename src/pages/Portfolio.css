@@ -3,7 +3,7 @@
   color: #333;
 }
 
-/* Hero Section */
+
 .portfolio-hero {
   background: linear-gradient(135deg, #1e3c72, #2a5298);
   color: white;
@@ -22,7 +22,7 @@
   margin: auto;
 }
 
-/* Filter Buttons */
+
 .portfolio-filters {
   text-align: center;
   margin: 40px 0 20px;
@@ -45,7 +45,7 @@
   color: white;
 }
 
-/* Portfolio Grid */
+ 
 .portfolio-grid-section {
   padding: 40px 20px 80px;
   background-color: #f9f9f9;
@@ -110,7 +110,7 @@
   color: #1e3c72;
 }
 
-/* CTA Section */
+
 .portfolio-cta {
   background-color: #2a5298;
   color: white;
@@ -157,7 +157,6 @@
   margin-top: 20px;
 }
 
-/* Framer Motion handles show/hide and transitions now */
 .portfolio-card {
   background: white;
   border-radius: 10px;
@@ -173,7 +172,7 @@
   color: #333;
 }
 
-/* Hero Section */
+
 .portfolio-hero {
   background: linear-gradient(135deg, #1e3c72, #2a5298);
   color: white;
@@ -192,7 +191,7 @@
   margin: auto;
 }
 
-/* Filter Buttons */
+
 .portfolio-filters {
   text-align: center;
   margin: 40px 0 20px;
@@ -215,7 +214,7 @@
   color: white;
 }
 
-/* Portfolio Grid */
+
 .portfolio-grid-section {
   padding: 40px 20px 80px;
   background-color: #f9f9f9;
@@ -292,7 +291,7 @@
   color: #1e3c72;
 }
 
-/* CTA Section */
+
 .portfolio-cta {
   background-color: #2a5298;
   color: white;

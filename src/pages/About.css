@@ -1,11 +1,11 @@
-/* About Page Styling */
+ 
 
 .about-page {
   font-family: Arial, sans-serif;
   color: #333;
 }
 
-/* Hero Section */
+ 
 .about-hero {
   background: linear-gradient(135deg, #1e3c72, #2a5298);
   color: white;
@@ -24,7 +24,7 @@
   margin: auto;
 }
 
-/* Mission & Vision */
+ 
 .about-mission {
   padding: 80px 0;
   background-color: #f9f9f9;
@@ -50,7 +50,7 @@
   color: #1e3c72;
 }
 
-/* Team Section */
+ 
 .about-team {
   padding: 80px 0;
   text-align: center;
@@ -78,7 +78,7 @@
   margin-bottom: 15px;
 }
 
-/* CTA Section */
+ 
 .about-cta {
   background-color: #2a5298;
   color: white;
@@ -103,7 +103,7 @@
   color: white;
 }
 
-/* Responsive Text */
+ 
 @media (max-width: 768px) {
   .about-hero h1 {
     font-size: 2.2rem;

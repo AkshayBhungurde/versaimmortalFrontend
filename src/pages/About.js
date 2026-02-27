@@ -78,18 +78,18 @@ export default function About() {
 }
 
 // Team Member Card Component
-function TeamMember({ name, role }) {
-  return (
-    <div className="team-member">
-      <div className="team-photo">
-        {/* Placeholder for photo */}
-        <img
-          src={`https://via.placeholder.com/150?text=${name.split(" ")[0]}`}
-          alt={name}
-        />
-      </div>
-      <h3>{name}</h3>
-      <p>{role}</p>
-    </div>
-  );
-}
+// function TeamMember({ name, role }) {
+//   return (
+//     <div className="team-member">
+//       <div className="team-photo">
+//         {/* Placeholder for photo */}
+//         <img
+//           src={`https://via.placeholder.com/150?text=${name.split(" ")[0]}`}
+//           alt={name}
+//         />
+//       </div>
+//       <h3>{name}</h3>
+//       <p>{role}</p>
+//     </div>
+//   );
+// }

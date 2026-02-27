@@ -1,6 +1,4 @@
-/* =========================
-   VARIABLES & RESET
-========================= */
+ 
 :root {
   --primary: #2563eb;
   --dark: #0f172a;
@@ -15,9 +13,7 @@
   box-sizing: border-box;
 }
 
-/* =========================
-   NAVBAR
-========================= */
+ 
 .main-navbar {
   position: sticky;
   top: 0;
@@ -32,9 +28,7 @@
   box-shadow: var(--shadow);
 }
 
-/* =========================
-   LOGO
-========================= */
+ 
 .logo {
   font-size: 22px;
   font-weight: 700;
@@ -42,9 +36,7 @@
   letter-spacing: 0.5px;
 }
 
-/* =========================
-   NAV LINKS (DESKTOP)
-========================= */
+ 
 .nav-links {
   display: flex;
   align-items: center;
@@ -60,7 +52,7 @@
   transition: color 0.3s ease;
 }
 
-/* underline hover effect */
+ 
 .nav-links a::after {
   content: "";
   position: absolute;
@@ -80,9 +72,7 @@
   width: 100%;
 }
 
-/* =========================
-   HAMBURGER
-========================= */
+ 
 .hamburger {
   display: none;
   font-size: 28px;
@@ -91,9 +81,7 @@
   user-select: none;
 }
 
-/* =========================
-   MOBILE MENU
-========================= */
+ 
 @media (max-width: 768px) {
   .hamburger {
     display: block;
@@ -128,9 +116,7 @@
   }
 }
 
-/* =========================
-   SMALL DEVICES
-========================= */
+ 
 @media (max-width: 480px) {
   .logo {
     font-size: 18px;
